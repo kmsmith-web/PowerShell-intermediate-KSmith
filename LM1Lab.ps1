@@ -47,7 +47,7 @@ function Get-CourseInfo {
 # Assignment: Get-SystemInfo
 # Date: November 5, 2026 
 
-function Get-SystemInfo {
+function Get-SystemInfo {   
 
     Write-Host "===== SYSTEM INFORMATION ====="
     Write-Host "Computer Name: $env:COMPUTERNAME"
